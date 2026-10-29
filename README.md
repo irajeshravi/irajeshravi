@@ -35,7 +35,7 @@ This site presents my experience, skills, and selected work in one place.
 
 - **Business analysis:** requirements elicitation, gap analysis, BPMN / AS-IS and TO-BE mapping, UAT, user stories and acceptance criteria, KPI and ROI design
 - **Methodology:** Agile/Scrum, Lean Six Sigma, backlog management
-- **Systems & tools:** SAP MM, SAP Business One, RIB BuildSmart, Microsoft 365 Dynamics, Jira, Lucidchart, Visio
+- **Systems & tools:** SAP MM, SAP Business One, Microsoft 365 Dynamics, Jira, Lucidchart, Visio
 - **Data:** Power BI, SQL, Excel, SPSS, JSON / REST API integration
 
 
