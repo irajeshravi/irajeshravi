@@ -9,7 +9,7 @@ Based in Dubai, UAE.
 
 ## About
 
-I'm a Senior Business Analyst with 5 years of experience across Agile delivery, ERP and process transformation, and data-driven decision support. I currently lead the Finance, Payroll, and Procurement modules of an internally developed ERP at Concord Stars Contracting, replacing a third-party system. Before that, I led requirements and UAT for an SAP ERP enhancement programme.
+I'm a Senior Business Analyst with 5 years of experience across Agile delivery, ERP and process transformation, and data-driven decision support. I currently handle the Finance, Payroll, and Procurement modules of an internally developed ERP at Concord Stars Contracting, replacing a third-party system. Before that, I led requirements and UAT for an SAP ERP enhancement programme.
 
 This site presents my experience, skills, and selected work in one place.
 
